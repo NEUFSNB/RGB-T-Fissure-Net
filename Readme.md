@@ -1,16 +1,15 @@
 # Readme
 
-## Instructions on Code Transportation
+## Code Transportation Instructions
 
-This document is used to explain the handling method when problems occur during code transportation, ensuring the smooth delivery and use of the code.
+This document describes the handling procedures for issues that may arise during code transportation, ensuring the smooth delivery and valid use of the code.
 
 ### Problem Handling
 
-If any problems (such as code loss, damage, failure to receive normally, etc.) occur during the code transportation (including transmission, delivery, reception and other links), please contact the corresponding author in a timely manner to solve them.
+In the event of any abnormalities or errors during code transportation (including transmission, delivery, and reception), please contact the corresponding author promptly to resolve the problem.Common issues include but are not limited to code loss, corruption, and failure to receive files normally.
 
-### Contact Information of the Corresponding Author
+#### Corresponding Author Contact
 
 Email: luojiayin@mail.neu.edu.cn
 
-Please clearly state the problem phenomenon, occurrence link and relevant details in the email to facilitate quick location and solution of the problem.
-> （注：文档部分内容可能由 AI 生成）
+Please provide a clear description of the problem symptoms, the stage where the issue occurred, and relevant details in your email to facilitate efficient troubleshooting.
